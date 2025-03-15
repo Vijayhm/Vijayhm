@@ -27,7 +27,13 @@ I am a **Data Science & Software Engineer** with expertise in **Python, C++, C**
 
 🔹 **Wireless Robotic Hand Bot**  
    - Built a **gesture-controlled robotic hand** using **C, Arduino, and NRF24L01**, achieving **low-latency (50ms) communication**.  
-   - Integrated motion detection sensors for real-time gesture tracking.  
+   - Integrated motion detection sensors for real-time gesture tracking.
+     
+🔹 **[Dynamic Beamforming Optimization for 5G Networks](https://github.com/Vijayhm/beamforming-project)**
+   - This project demonstrates the use of machine learning to optimize beamforming for 5G networks.
+   - The goal is to reduce signal interference and improve the Signal-to-Noise Ratio (SNR) by training a neural network on user and antenna positions.
+
+
 
 ---
 
