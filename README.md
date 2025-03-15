@@ -5,7 +5,6 @@
 🔹 **Master’s in Data Science @ Stony Brook University**  
 🔹 **Specialized in AI, Software Engineering, Wireless Networks (4G LTE/5G), and Full-Stack Development**  
 
-📍 **GitHub**: [github.com/Vijayhm](https://github.com/Vijayhm)  
 📍 **LinkedIn**: [linkedin.com/in/vijay-manjunath](https://www.linkedin.com/in/vijay-manjunath-9630321b3/)  
 📍 **Email**: vijay.hattibettamanjunath@stonybrook.edu  
 
