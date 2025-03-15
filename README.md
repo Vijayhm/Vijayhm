@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Vijay Manjunath
 
 🔹 **Application Development Intern @ IUS Auto**  
-🔹 **Ex-Wireless Software Developer @ CommScope Networks**  
+🔹 **Ex-Wireless Software Developer @ CommScope Networks** 
+🔹 **Ex-Machine Learning Intern @ VI solutions** 
 🔹 **Master’s in Data Science @ Stony Brook University**  
 🔹 **Specialized in AI, Software Engineering, Wireless Networks (4G LTE/5G), and Full-Stack Development**  
 
@@ -45,16 +46,10 @@ I am a **Data Science & Software Engineer** with expertise in **Python, C++, C**
 
 ---
 
-## 📊 **GitHub Stats**
-![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vijayhm&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vijayhm&layout=compact&theme=radical)
-
----
-
 ## 📬 **Let's Connect!**
 📧 **Email**: vijay.hattibettamanjunath@stonybrook.edu  
 💼 **LinkedIn**: [linkedin.com/in/vijay-manjunath](https://www.linkedin.com/in/vijay-manjunath-9630321b3/)  
-📜 **Resume**: *[Attach a link to your resume PDF]*  
+📜 **Resume**: https://drive.google.com/file/d/1fV8YFSKfoUXY1xwrrB8vh0T9kslcKDgR/view?usp=sharing
 
 ---
 
