@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vijay Manjunath
 
-🔹 **Application Development Intern @ IUS Auto**  
+🔹 **Application Development Intern @ IUS Auto**
 🔹 **Ex-Wireless Software Developer @ CommScope Networks**
 🔹 **Ex-Machine Learning Intern @ VI solutions**
 🔹 **Master’s in Data Science @ Stony Brook University**
