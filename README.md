@@ -1,8 +1,11 @@
 # 👋 Hi, I'm Vijay Manjunath
 
 🔹 **Application Development Intern @ IUS Auto**
+
 🔹 **Ex-Wireless Software Developer @ CommScope Networks**
+
 🔹 **Ex-Machine Learning Intern @ VI solutions**
+
 🔹 **Master’s in Data Science @ Stony Brook University**
 
 🔹 **Specialized in AI, Software Engineering, Wireless Networks (4G LTE/5G), and Full-Stack Development**  
@@ -18,6 +21,11 @@ I am a **Data Science & Software Engineer** with expertise in **Python, C++, C**
 ---
 
 ## 📂 **Projects & Work**
+
+🔹 **Wireless Robotic Hand Bot**  
+   - Built a **gesture-controlled robotic hand** using **C, Arduino, and NRF24L01**, achieving **low-latency (50ms) communication**.  
+   - Integrated motion detection sensors for real-time gesture tracking.
+     
 🔹 **[Text-to-SQL Natural Language Interface](https://github.com/Vijayhm/text-to-sql)**  
    - Designed a natural language interface to query databases, making SQL accessible for non-technical users.  
    - Integrated **DynamoDB caching**, reducing query execution time and errors by **15%**.  
@@ -26,15 +34,9 @@ I am a **Data Science & Software Engineer** with expertise in **Python, C++, C**
    - Implemented a **backtracking algorithm in Python** to efficiently solve Sudoku puzzles.  
    - Developed a user-friendly **GUI using Tkinter** for interactive solving.  
 
-🔹 **Wireless Robotic Hand Bot**  
-   - Built a **gesture-controlled robotic hand** using **C, Arduino, and NRF24L01**, achieving **low-latency (50ms) communication**.  
-   - Integrated motion detection sensors for real-time gesture tracking.
-     
 🔹 **[Dynamic Beamforming Optimization for 5G Networks](https://github.com/Vijayhm/beamforming-project)**
    - This project demonstrates the use of machine learning to optimize beamforming for 5G networks.
    - The goal is to reduce signal interference and improve the Signal-to-Noise Ratio (SNR) by training a neural network on user and antenna positions.
-
-
 
 ---
 
