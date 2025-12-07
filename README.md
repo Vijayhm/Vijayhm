@@ -1,9 +1,10 @@
 # 👋 Hi, I'm Vijay Manjunath
 
+🔹 **Senior Software Developer, Wireless technologies @ HP IQ**
 🔹 **Application Development Intern @ IUS Auto**  
 🔹 **Ex-Wireless Software Developer @ CommScope Networks**  
 🔹 **Master’s in Data Science @ Stony Brook University**  
-🔹 **Specialized in AI, Software Engineering, Wireless Networks (4G LTE/5G), and Full-Stack Development**  
+🔹 **Specialised in AI, Software Engineering, Wireless Networks (4G LTE/5G), and Full-Stack Development**  
 
 📍 **LinkedIn**: [linkedin.com/in/vijay-manjunath](www.linkedin.com/in/vijay-hmanjunath)  
 📍 **Email**: work.vijaymanjunath@gmail.com
@@ -11,7 +12,7 @@
 ---
 
 ## 🚀 **About Me**
-I am a **Data Science & Software Engineer** with expertise in **Python, C++, C**, and **RF Engineering**. My work focuses on **developing scalable applications**, **optimizing wireless network performance**, and **implementing AI-powered automation**. Currently, I am working on **quantized open-source LLMs** to improve performance in **patent drafting applications**.
+I am a **Data Science & Software Engineer** with expertise in **Python, C++, C**, and **RF Engineering**. My work focuses on **developing scalable applications**, **optimizing wireless network performance**, and **implementing AI-powered automation**. Currently, I am working on **quantised open-source LLMs** to improve performance in **patent drafting applications**.
 
 ---
 
@@ -30,7 +31,7 @@ I am a **Data Science & Software Engineer** with expertise in **Python, C++, C**
    - Developed a user-friendly **GUI using Tkinter** for interactive solving.  
 
 🔹 **[Dynamic Beamforming Optimization for 5G Networks](https://github.com/Vijayhm/beamforming-project)**
-   - This project demonstrates the use of machine learning to optimize beamforming for 5G networks.
+   - This project demonstrates the use of machine learning to optimise beamforming for 5G networks.
    - The goal is to reduce signal interference and improve the Signal-to-Noise Ratio (SNR) by training a neural network on user and antenna positions.
 
 ---
